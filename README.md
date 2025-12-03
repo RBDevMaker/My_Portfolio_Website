@@ -77,7 +77,7 @@ A clean, responsive personal website showcasing my skills, experience, and proje
 👉 **GitHub Repo:** link
 
 ## 🧪 3. Nail Appointment App (Coming Soon! Work in Progress!) 🚧
-Description of another app, tool, cloud project, portfolio page, or coursework project.
+ Cloud project.  
 
 👉 **Live Website:** link
 
