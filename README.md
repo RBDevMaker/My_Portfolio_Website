@@ -56,8 +56,7 @@ Built for a real small business, this application demonstrates scalable, product
 👉 **Live Website:** 
 (https://main.d108fwp0crpxvl.amplifyapp.com)
 
-👉 **GitHub Repo:**  link
-
+👉 **GitHub Repo:** (https://github.com/RBDevMaker/Customology4U)
 ## 🗂️ 2. My Portfolio Webpage
 *A curated collection of my cloud, web, and serverless engineering projects.*
 
