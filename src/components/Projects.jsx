@@ -81,7 +81,7 @@ const Projects = () => {
                 "Accessibility-compliant design (WCAG standards)",
                 "Performance-optimized CSS animations"
             ],
-            liveUrl: "http://localhost:3000",
+            isCurrentSite: true,
             githubUrl: "https://github.com/RBDevMaker/My_Portfolio_Website"
         }
     ]
@@ -120,7 +120,11 @@ const Projects = () => {
                                 )}
 
                                 <div className="project-links">
-                                    {project.liveUrl && (
+                                    {project.isCurrentSite ? (
+                                        <button className="btn" disabled>
+                                            You Are Here Now!
+                                        </button>
+                                    ) : project.liveUrl && (
                                         <a href={project.liveUrl} target="_blank" rel="noopener noreferrer" className="btn">
                                             Live Website
                                         </a>
