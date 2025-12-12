@@ -3,7 +3,7 @@
 A modern, professional developer portfolio designed with simple and direct style aesthetics to convey trust and credibility. Built with React, featuring comprehensive sections showcasing technical expertise, education, certifications, and project experience.
 
 ## 🌐 Live Demo
-- **Local Development**: `http://localhost:3000`
+- **Local Development**: www.rbriscoe.com
 - **Production**: Coming soon on AWS Amplify
 
 ## 🚀 Features
