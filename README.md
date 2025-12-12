@@ -64,7 +64,7 @@ A modern, professional developer portfolio designed with simple and direct style
 
 4. **Open in browser**
    ```
-   http://localhost:3000
+   http://www.rbriscoe.com
    ```
 
 ## 📁 Project Structure
